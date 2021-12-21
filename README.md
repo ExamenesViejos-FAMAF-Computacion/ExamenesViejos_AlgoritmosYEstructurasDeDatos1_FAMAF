@@ -1,4 +1,4 @@
-# Exámenes viejos Algoritmos y Estructuras de Datos 1
+# Exámenes viejos Algoritmos y Estructuras de Datos 1 - FaMAF
 
 Exámenes viejos de la materia algoritmos y estructuras de datos 1 de FaMAF.
 
